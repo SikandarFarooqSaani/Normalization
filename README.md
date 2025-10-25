@@ -21,9 +21,9 @@ It has 3 class labels.
 
 ### 1️⃣ Data Exploration
 - Took data  
-- Saw distribution plot of one feature → <img width="576" height="432" alt="norm1" src="https://github.com/user-attachments/assets/cf6b2f7b-a28a-4a44-a529-916120b80f55" />
+- Saw distribution plot of one feature → *<img width="576" height="432" alt="norm1" src="https://github.com/user-attachments/assets/cf6b2f7b-a28a-4a44-a529-916120b80f55" />*
 
-- Saw distribution of 2nd feature “Malic Acid” → <img width="567" height="432" alt="norm2" src="https://github.com/user-attachments/assets/e27ced07-5764-4352-abec-a184367e3498" />
+- Saw distribution of 2nd feature “Malic Acid” → *<img width="567" height="432" alt="norm2" src="https://github.com/user-attachments/assets/e27ced07-5764-4352-abec-a184367e3498" />*
   
 - 3 class labels are present  
 - Plotted them on scatter plot → *<img width="567" height="434" alt="norm3" src="https://github.com/user-attachments/assets/c87ece6d-1ecb-4438-88f2-cdec2459799a" />
